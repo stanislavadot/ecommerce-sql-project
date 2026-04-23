@@ -27,7 +27,7 @@ Podaci su generisani pomoću Mockaroo-a.
 2. Pokrenuti `tables.sql`
 3. Pokrenuti `queries.sql`
 
-> Fajlovi u `raw_data/` folderu su originalni Mockaroo fajlovi, 
+> Fajlovi u `raw/` folderu su originalni Mockaroo fajlovi, 
 > dostupni samo za pregled originalne strukture podataka.
 
 ## Napomene

@@ -1,0 +1,55 @@
+create table products (
+	id INT,
+	name VARCHAR(50),
+	price DECIMAL(5,2)
+);
+insert into products (id, name, price) values (1, 'Biodegradable Trash Bags', 439.55);
+insert into products (id, name, price) values (2, 'Jasmine Rice', 423.61);
+insert into products (id, name, price) values (3, 'Customizable Name Puzzle', 328.73);
+insert into products (id, name, price) values (4, 'Black Bean Soup', 5.16);
+insert into products (id, name, price) values (5, 'Smart LED Light Strip', 262.03);
+insert into products (id, name, price) values (6, 'Organic Coconut Yogurt', 105.76);
+insert into products (id, name, price) values (7, 'Coconut Rice', 260.1);
+insert into products (id, name, price) values (8, 'Lemon Garlic Shrimp', 78.2);
+insert into products (id, name, price) values (9, 'Dark Chocolate Almond Butter Cups', 128.24);
+insert into products (id, name, price) values (10, 'Black Bean Salsa', 94.45);
+insert into products (id, name, price) values (11, 'Caramel Sauce', 36.02);
+insert into products (id, name, price) values (12, 'Spicy Italian Sausage', 173.48);
+insert into products (id, name, price) values (13, 'Garlic Parmesan Roasted Potatoes', 182.36);
+insert into products (id, name, price) values (14, 'Herb-Infused Olive Oil', 478.97);
+insert into products (id, name, price) values (15, 'Apple Pie Filling', 386.45);
+insert into products (id, name, price) values (16, 'Zesty Garlic Hummus', 75.46);
+insert into products (id, name, price) values (17, 'Lightweight Travel Backpack', 451.81);
+insert into products (id, name, price) values (18, 'Organic Black Bean Burger', 325.43);
+insert into products (id, name, price) values (19, 'Potting Soil', 300.24);
+insert into products (id, name, price) values (20, 'Cheese Stuffed Jalapenos', 164.46);
+insert into products (id, name, price) values (21, 'Ultra-Thin Laptop Sleeve', 246.12);
+insert into products (id, name, price) values (22, 'Herb Garlic Butter', 22.69);
+insert into products (id, name, price) values (23, 'Lemon Dill Salmon', 198.4);
+insert into products (id, name, price) values (24, 'Kettle Chip Variety Pack', 493.23);
+insert into products (id, name, price) values (25, 'Travel Shoe Bags Set', 134.08);
+insert into products (id, name, price) values (26, 'Craft Beer Mustard', 406.65);
+insert into products (id, name, price) values (27, 'Reusable Snack Bags', 276.35);
+insert into products (id, name, price) values (28, 'Self-Adhesive Wallpaper', 290.21);
+insert into products (id, name, price) values (29, 'Compost Bin', 411.96);
+insert into products (id, name, price) values (30, 'Organic Vanilla Bean Ice Cream', 293.7);
+insert into products (id, name, price) values (31, 'Home Delivery Food Journal', 101.04);
+insert into products (id, name, price) values (32, 'Classic Bagels', 267.98);
+insert into products (id, name, price) values (33, 'Cacao Nibs', 410.5);
+insert into products (id, name, price) values (34, 'Organic Quinoa Salad', 463.07);
+insert into products (id, name, price) values (35, 'LED Under Cabinet Lighting', 224.0);
+insert into products (id, name, price) values (36, 'Organic Ramen Noodles', 416.83);
+insert into products (id, name, price) values (37, 'LED Strip Lights Kit', 456.5);
+insert into products (id, name, price) values (38, 'Chipotle Black Bean Salad', 221.85);
+insert into products (id, name, price) values (39, 'Portable USB-C Monitor', 198.06);
+insert into products (id, name, price) values (40, 'Smartphone Camera Lens Kit', 390.98);
+insert into products (id, name, price) values (41, 'Mashed Sweet Potatoes', 297.73);
+insert into products (id, name, price) values (42, 'Travel Shoe Bags Set', 186.5);
+insert into products (id, name, price) values (43, 'Key Finder', 22.29);
+insert into products (id, name, price) values (44, 'Portable Charcoal Grill', 198.77);
+insert into products (id, name, price) values (45, 'Berries Medley', 219.63);
+insert into products (id, name, price) values (46, 'Garden Hose', 16.34);
+insert into products (id, name, price) values (47, 'Organic Coconut Oil', 10.3);
+insert into products (id, name, price) values (48, 'Wireless Mouse', 342.16);
+insert into products (id, name, price) values (49, 'Pomegranate Juice', 460.7);
+insert into products (id, name, price) values (50, 'Bicycle Lock', 206.7);

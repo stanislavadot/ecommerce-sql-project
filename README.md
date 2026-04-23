@@ -24,12 +24,11 @@ Podaci su generisani pomoću Mockaroo-a.
 
 ## Kako pokrenuti
 1. Kreirati bazu: `CREATE DATABASE ecommerce_db;`
-2. Pokrenuti fajlove iz `/data` foldera redom:
-   - `customers.sql`
-   - `products.sql`
-   - `orders.sql`
-   - `order_items.sql`
+2. Pokrenuti `tables.sql`
 3. Pokrenuti `queries.sql`
+
+> Fajlovi u `raw/` folderu su originalni Mockaroo fajlovi, 
+> dostupni samo za pregled originalne strukture podataka.
 
 ## Napomene
 - Podaci su generisani preko Mockaroo-a pa čišćenje nije bilo potrebno 

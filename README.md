@@ -1,5 +1,8 @@
 # E-Commerce SQL Project
 
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+
 ## Opis projekta
 Baza podataka za e-commerce platformu kreirana u PostgreSQL-u. 
 Podaci su generisani pomoću Mockaroo-a.
